@@ -6,13 +6,13 @@
    position: relative;
 }
 .box {
-   float: left
+   float: left;
    padding: 15px 0 0 15px;
 }
 .pic{
    padding: 10px;
    border: 2px solid #ccc;
-   border-radius: 8px; 
+   border-radius: 8px;
    box-shadow: 0 0 5px #ccc;
 }
 .pic img{
